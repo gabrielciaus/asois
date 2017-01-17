@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="change_location">Schimbă locația</string>
+
+    <string-array name="cities">
+        <item>Bucharest</item>
+        <item>Slatina</item>
+    </string-array>
+
+</resources>
